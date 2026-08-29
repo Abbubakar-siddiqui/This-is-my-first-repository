@@ -1,1 +1,3 @@
-# This-is-my-first-repository
+# practice-demo
+This is my first Git repository.
+Author-Mohammed Abbubakar Siddiqui
